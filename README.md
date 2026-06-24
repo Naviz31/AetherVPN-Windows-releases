@@ -10,7 +10,7 @@ https://github.com/Naviz31/AetherVPN-Windows-releases/releases/latest
 
 Installer file:
 
-`AetherVPN Setup 0.1.1.exe`
+`AetherVPN Setup 0.1.2.exe`
 
 ## Notes
 
